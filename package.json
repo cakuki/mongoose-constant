@@ -1,0 +1,35 @@
+{
+  "name": "mongoose-constant",
+  "version": "0.1.0",
+  "description": "Adds constant (set-once) capability for paths.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:cakuki/mongoose-constant.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongooseplugin"
+  ],
+  "author": {
+    "name": "Can Kutlu Kinay",
+    "email": "ckkinay@gmail.com",
+    "url": "http://ckk.im"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cakuki/mongoose-constant/issues"
+  },
+  "homepage": "https://github.com/cakuki/mongoose-constant",
+  "peerDependencies": {
+      "mongoose": "^3.x"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "mongoose": "^3.8.24",
+    "should": "^5.0.1"
+  }
+}
