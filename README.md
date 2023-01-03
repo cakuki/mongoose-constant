@@ -1,3 +1,7 @@
+> **Warning**
+>
+> This project is not maintained anymore due to lack of interest.
+
 # Mongoose Constant
 
 A simple plugin to make marked paths constant.
